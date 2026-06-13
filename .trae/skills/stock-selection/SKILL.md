@@ -5,7 +5,7 @@ description: "自顶向下选股技能：在'大盘 → 板块 → 个股'三层
 
 # Stock Selection Skill（选股技能）
 
-> 全局红线（仓位、风控、事件分级、黑名单）见 [stock-analyst/AGENT.md](../../agents/stock-analyst/AGENT.md)。
+> 全局红线（仓位、风控、事件分级、黑名单）见 [stock-analyst.md](../../agents/stock-analyst.md)。
 > 本 Skill 仅产出**候选池**与**入选/淘汰理由**，不出具具体买点（属 stock-buy）。
 
 ## 一、何时调用

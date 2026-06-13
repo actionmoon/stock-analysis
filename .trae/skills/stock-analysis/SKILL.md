@@ -5,7 +5,7 @@ description: "系统化分析股票的外在因素、内在因素与技术指标
 
 # Stock Analysis Skill（股票分析技能）
 
-> 全局红线（6 大原则、仓位、止损、事件分级、铁律）见 [stock-analyst/AGENT.md](../../agents/stock-analyst/AGENT.md)。
+> 全局红线（6 大原则、仓位、止损、事件分级、铁律）见 [stock-analyst.md](../../agents/stock-analyst.md)。
 > 本 Skill 仅提供**分析方法论与产出模板**，不重述红线条款。
 
 ## 一、何时调用

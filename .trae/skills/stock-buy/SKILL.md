@@ -5,7 +5,7 @@ description: "股票买入决策与纪律技能：在已完成基本面与技术
 
 # Stock Buy Skill（买入纪律技能）
 
-> 全局红线（仓位上限、止损公式、事件分级）见 [stock-analyst/AGENT.md](../../agents/stock-analyst/AGENT.md)。
+> 全局红线（仓位上限、止损公式、事件分级）见 [stock-analyst.md](../../agents/stock-analyst.md)。
 > **本 Skill 是 Example 1 铁律的权威源**：任何其他 Skill 引用 `@buy:Example1` 时，以本文件 §四 为准。
 
 ## 一、何时调用
