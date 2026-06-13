@@ -142,5 +142,5 @@ description: "股票买入决策与纪律技能：在已完成基本面与技术
 ## 六、与其他 Skill 的衔接
 
 - 上游：`stock-analysis` 提供基本面 + 技术面综合评级；
-- 上游：`stock-screening` 提供候选池；
+- 上游：`stock-selection` 提供候选池；
 - 下游：买入后任何"放量下跌 / 跌破止损 / 趋势走坏"信号 → 立即移交 `stock-sell`。

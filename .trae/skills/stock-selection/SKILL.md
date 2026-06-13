@@ -1,9 +1,9 @@
 ---
-name: "stock-screening"
+name: "stock-selection"
 description: "自顶向下选股技能：在'大盘 → 板块 → 个股'三层框架下做多因子筛选（基本面 + 技术面 + 资金面），产出候选池而非单一推荐。当用户没有指定标的、希望发现机会、做行业轮动选股、或要求按主题/风格挑选股票时调用。"
 ---
 
-# Stock Screening Skill（选股技能）
+# Stock Selection Skill（选股技能）
 
 ## 何时调用
 
